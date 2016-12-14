@@ -1,0 +1,21 @@
+Un = 380 V
+In = 10,5 A
+
+Naprázdno:
+I0 = 9,6 A 
+cos(fi_0) = 0,161986
+fi_0 = 80,68°
+Nakrátko:
+Ik = 10,5
+Ikn = 33,25
+Uk = 120
+cos(fi_k) = 0,65678
+fi_k = 48,94°
+
+Odpory:
+R1 = 3,35
+R2 = 0,55
+R2' = ? 2,2 tøeba
+
+mi = 1 A/mm
+
